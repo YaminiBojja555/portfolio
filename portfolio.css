@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+}
+body{
+    background-color: antiquewhite;
+}
+#navs{
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    list-style: none;
+    padding: 25px;
+}
+.c1{
+    margin-right: 70px;
+    text-decoration: none;
+}
+h1{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+#navdiv{
+    background-color: black;
+    
+}
+#aboutme{
+    font-size: 45px;
+    color: black;
+}
+#yam{
+    color: black;
+}
+span{
+    color: red;
+}
+#text{
+    width: 600px;
+    margin: 100px 100px 100px 100px;
+    color: rgb(136, 41, 41);
+}
+#button{
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+    border-radius: 10px
+}
+#button>a{
+    color: white;
+}
+#img{
+    position:absolute;  
+    right: 10%;
+    border-radius: 50%;
+    width: 350px;
+    top: 30%;
+}
+#skill{
+    color: black;
+    font-size: 45px;
+}
+#skillspage{
+    margin: 100px 100px 100px 100px; 
+}
+#soft{
+    color: black;
+    font-size: 30px;
+}
+#s1{
+    font-size: 20px;
+    color: brown;
+}
+#projectspage{
+    margin: 100px 100px 100px 100px;
+}
+#projects{
+    color: black;
+    font-size: 45px;
+}
+#p1{
+    font-size: 20px;
+    color: brown;
+}
+#contactpage{
+    margin: 100px 100px 100px 100px; 
+}
+#contact{
+    color: black;
+    font-size: 45px;
+}
+#touch{
+    width: 500px;
+    padding-left: 300px;
+}
+.btn{
+    height: 40px;
+    width: 40px;
+    padding-right: 30px;
+}
+#cont{
+    padding-left: 450px;
+}
+#port{
+    padding-left: 460px;
+    font-size: 20px;
+}
